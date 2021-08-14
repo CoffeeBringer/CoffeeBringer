@@ -9,7 +9,7 @@
   <img align="center" alt="Coffee-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Coffee-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Coffee-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Coffee-yoda" src="">
+  <img align="right" alt="gif-comingsoon" src="">
 </div>
 
 ##
@@ -22,7 +22,7 @@
   <a href="https://www.youtube.com/channel/https://www.youtube.com/channel/UC84avBnHMWvC16t0_GO-cCg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
 </div>
 
-
+##
 
 
 - 👋 Hi, I’m @CoffeeBringer
