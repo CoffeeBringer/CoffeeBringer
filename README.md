@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CoffeeBringer
-- 👀 I’m interested in acquiring new skill
+- 👀 I’m interested in acquiring new skills
 - 🌱 I’m currently learning programming and pentesting
 - 💞️ I’m looking to collaborate on new projects and ideas
 - 📫 Talk with me through Discord: Coffeey#6168
