@@ -1,8 +1,8 @@
 ## Hi! I'm @GabrielRQueiroz!
 <div>
   <a href="https://github.com/GabrielRQueiroz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CoffeeBringer&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeeBringer&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielRQueiroz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRQueiroz&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Coffee-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,13 +26,13 @@
 ##
 
 
-- 👋 Hi, I’m @CoffeeBringer
+- 👋 Hi, I’m @GabrielRQueiroz
 - 👀 I’m interested in acquiring new skills
 - 🌱 I’m currently learning programming and pentesting
 - 💞️ I’m looking to collaborate on new projects and ideas
 - 📫 Talk with me through Discord: Coffeey#6168
 
 <!---
-CoffeeBringer/CoffeeBringer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GabrielRQueiroz/GabrielRQueiroz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
