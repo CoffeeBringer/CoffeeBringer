@@ -1,6 +1,6 @@
-## Hi! I'm @CoffeeBringer!
+## Hi! I'm @GabrielRQueiroz!
 <div>
-  <a href="https://github.com/CoffeeBringer">
+  <a href="https://github.com/GabrielRQueiroz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CoffeeBringer&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeeBringer&layout=compact&langs_count=7&theme=onedark"/>
 </div>
