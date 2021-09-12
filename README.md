@@ -33,10 +33,13 @@
 # What I plan to learn:
   - Switch
   - Typescript
-  - Angular
+  - Vue
   - Next
+  - React
   - Python
   - Flutter
+  - Django
+  - Flask
 <!---
 GabrielRQueiroz/GabrielRQueiroz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
