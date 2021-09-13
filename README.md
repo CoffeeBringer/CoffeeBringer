@@ -33,7 +33,7 @@
 # What I plan to learn:
   - Switch
   - Typescript
-  - Vue
+  - Angular
   - Next
   - React
   - Python
