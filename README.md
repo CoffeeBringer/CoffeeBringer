@@ -2,8 +2,9 @@
 <div>
   <a href="https://github.com/GabrielRQueiroz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielRQueiroz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRQueiroz&layout=compact&langs_count=7&theme=onedark"/>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="180em" align="right" alt="Computador iuriCode">
 </div>
+
 <div style="display: inline-block"><br>
   <img align="center" alt="Coffee-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Coffee-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
