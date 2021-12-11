@@ -1,8 +1,9 @@
 <div align="center" width='100'>
-
-# Hi there 👋, my name is Gabriel!
     
 ![I am a Frontend Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQGmBAdOUlCaOw/profile-displaybackgroundimage-shrink_350_1400/0/1639202435178?e=1644451200&v=beta&t=XzkbgvtWslnnefovr_f5Z9Ar7_pYeH-aWz2al3TZ6os)
+    
+# Hi there 👋, my name is Gabriel!
+    
 ### 🌎 I am a Frontend Web Developer right from Brazil! 😉
     
 </div>
@@ -16,6 +17,7 @@
 * 💻 HTML, CSS, JS
 * ⚛ React
 * 📱 React Native
+* 🧠 UI / UX
 * 🎮 Unreal Engine
 
 <div align="center" width='100'>
