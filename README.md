@@ -17,6 +17,7 @@
 * 💻 HTML, CSS, JS
 * ⚛ React
 * 📱 React Native
+* 👨‍💻 Node.js
 * 🧠 UI / UX
 * 🎮 Unreal Engine
 
