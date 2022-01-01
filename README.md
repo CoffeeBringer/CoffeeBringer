@@ -1,6 +1,6 @@
 <div align="center" width='100'>
     
-![I am a Frontend Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQGmBAdOUlCaOw/profile-displaybackgroundimage-shrink_350_1400/0/1639202435178?e=1644451200&v=beta&t=XzkbgvtWslnnefovr_f5Z9Ar7_pYeH-aWz2al3TZ6os)
+![I am a Frontend Web Developer](https://pbs.twimg.com/profile_banners/965693856271486981/1639287538/1500x500)
     
 # Hi there 👋, my name is Gabriel!
     
