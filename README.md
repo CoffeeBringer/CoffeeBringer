@@ -1,6 +1,6 @@
 <div align="center" width='100'>
     
-![I am a Frontend Web Developer](https://pbs.twimg.com/profile_banners/965693856271486981/1639287538/1500x500)
+<img src="Github Readme.png" align="center" width="80"/>    
     
 # Hi there 👋, my name is Gabriel!
     
