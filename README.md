@@ -1,6 +1,6 @@
 <div align="center" width='100'>
     
-<img src="Banner.png" align="center" width="100"/>    
+<img src="Banner.png" align="center" width="100%"/>    
     
 # Hi there 👋, my name is Gabriel!
     
