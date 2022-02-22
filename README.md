@@ -37,9 +37,9 @@
     
 ##
     
-![Coffey's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRQueiroz&hide_border=true&show_icons=true&theme=monokai)
+![Coffey's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRQueiroz&hide_border=true&show_icons=true&theme=codeSTACKr)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GabrielRQueiroz&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GabrielRQueiroz&theme=codeSTACKr&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!-- [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrielRQueiroz)](https://github.com/GabrielRQueiroz/) -->
 
