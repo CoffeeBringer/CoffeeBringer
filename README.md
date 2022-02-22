@@ -37,10 +37,10 @@
 <div align="center" width='100%'>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=50 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielRQueiroz&hide_border=true&show_icons=true&theme=nord" />
+  <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielRQueiroz&hide_border=true&show_icons=true&theme=nord" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-streak-stats">
-  <img width=50 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=GabrielRQueiroz&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=nord" />
+  <img width=50% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=GabrielRQueiroz&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=nord" />
 </a> 
 
 <div align="center" width='100%'>
