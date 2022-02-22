@@ -29,7 +29,7 @@
 - 🔭 I’m currently working on InsulHub 
 - 🌱 I’m currently learning SQL (And realizing I hate it) & Typescript
 - 🤔 I’m looking forward to learning Backend and Cybersec (a.k.a HACKIN'!) 
-- 📫 How to reach me: gabrielr.queiroz@gmail.com 
+- 📫 My email that probably nobody will give attention to: gabrielr.queiroz@gmail.com 
 - ⚡ Fun fact: I think that I am funny :)
   
 ##
