@@ -17,7 +17,6 @@
 * 💻 HTML, CSS, JS
 * ⚛ React
 * 📱 React Native
-* 👨‍💻 Node.js and Typescipt
 * 🧠 UI / UX
 * 🎮 Unreal Engine
     
@@ -27,9 +26,9 @@
 
 </div>
 
-- 🔭 I’m currently working on Insulhub v0.3 
-- 🌱 I’m currently learning SQL and MongoDB (And realizing I hate it)
-- 🤔 I’m looking for help with Backend Development 
+- 🔭 I’m currently working on InsulHub 
+- 🌱 I’m currently learning SQL (And realizing I hate it) & Typescript
+- 🤔 I’m looking forward to learning Backend and Cybersec (a.k.a HACKIN'!) 
 - 📫 How to reach me: gabrielr.queiroz@gmail.com 
 - ⚡ Fun fact: I think that I am funny :)
 
