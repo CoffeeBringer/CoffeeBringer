@@ -33,10 +33,10 @@
 - ⚡ Fun fact: I think that I am funny :)
 
     
-<div align="center" width='100%'>
+<div align="left" width='100%'>
     
 ##
-    
+
 ![Coffey's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRQueiroz&hide_border=true&show_icons=true&theme=prussian)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GabrielRQueiroz&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=prussian)](https://git.io/streak-stats)
