@@ -15,7 +15,7 @@
 </div>
 
 * 💻 HTML, CSS, JS
-* ⚛ React
+* ⚛ ReactJS
 * 📱 React Native
 * 🧠 UI / UX
 * 🎮 Unreal Engine
