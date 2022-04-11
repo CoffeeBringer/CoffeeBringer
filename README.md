@@ -10,14 +10,13 @@
 
 <div align="center" width='50%'>
    
-## ✔️ Skills and Experience ✔️
+## ✔️ Skills ✔️
 
 </div>
 
-* 💻 HTML, CSS, JS
+* 💻 Basic Web Development
 * ⚛ ReactJS
-* 📱 React Native
-* 🧠 UI / UX
+* 🧠 UI / UX Design
 * 🎮 Unreal Engine
     
 <div align="center" width='50%'>
