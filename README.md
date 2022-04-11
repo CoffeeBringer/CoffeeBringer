@@ -4,7 +4,7 @@
     
 # Hi there 👋, my name is Gabriel!
     
-### 🌎 I am a Frontend Web Developer right from Brazil! 😉
+### 🌎 I am a Frontend Web Developer from Brazil! 😉
     
 </div>
 
