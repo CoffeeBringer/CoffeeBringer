@@ -14,10 +14,10 @@
 
 </div>
 
-* 💻 Basic Web Development
+* 💻 Web Development
 * ⚛ ReactJS
-* 🧠 UI / UX Design
-* 🎮 Unreal Engine
+* 📱React Native
+* 👀 UI / UX Design
     
 <div align="center" width='50%'>
 
