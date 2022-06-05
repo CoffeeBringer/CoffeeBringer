@@ -10,7 +10,7 @@
 
 <div align="center" width='50%'>
    
-## ✔️ Skills ✔️
+## ✔️ What I Know ✔️
 
 </div>
 
