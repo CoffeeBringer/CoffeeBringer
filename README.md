@@ -18,6 +18,7 @@
 * ⚛ ReactJS
 * 📱React Native
 * 👀 UI / UX Design
+* 🟩 NodeJS
     
 <div align="center" width='50%'>
 
