@@ -30,7 +30,7 @@
 - 🌱 I’m currently learning Python (And realizing I LOVE it) & Typescript
 - 🤔 I’m looking forward to learning Cybersecurity (a.k.a HACKIN'!) 
 - 📫 My email that probably nobody will give attention to: gabrielr.queiroz@gmail.com 
-- ⚡ Fun fact: I think that I am funny :)
+- ⚡ **Fun fact: I think that I am funny :)**
   
 ##
 
