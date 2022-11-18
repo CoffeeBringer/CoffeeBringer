@@ -26,7 +26,8 @@
 
 </div>
 
-- 🔭 I’m currently working on InsulHub 
+- 🔭 I’m ~no longer~ working on InsulHub 
+- 🤩 I'm currently working at CJR 
 - 🌱 I’m currently learning Python (And realizing I LOVE it) & Typescript
 - 🤔 I’m looking forward to learning Cybersecurity (a.k.a HACKIN'!) 
 - 📫 My email that probably nobody will give attention to: gabrielr.queiroz@gmail.com 
