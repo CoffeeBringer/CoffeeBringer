@@ -4,7 +4,7 @@
     
 # Hello 👋, my name is Gabriel!
     
-### 🌎 I am a Frontend Developer from Brazil! 😉
+### 🌎 I am a Fullstack(!!) Developer from Brazil! 😉
     
 </div>
 
