@@ -1,8 +1,9 @@
+# Hello 👋, my name is Gabriel!
+
 <div align="center" width='100'>
     
 <img src="Banner.png" align="center" width="100%"/>    
     
-# Hello 👋, my name is Gabriel!
     
 ### 🌎 I am a Fullstack Developer from Brazil! 😉
     
