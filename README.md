@@ -27,12 +27,12 @@
 
 </div>
 
-- 🔭 I’m ~no longer~ working on InsulHub 
-- 💼 I'm currently working at 🦭 CJR 🦭
-- 🌱 I’m currently learning Python (And realizing I LOVE it) & Typescript
+- 🔭 I’m ~no longer~ working on my personal projects 😭 
+- 💼 I'm currently working at 🥸 *RanD7=P+0$w$s 🥸
+- 🌱 I’m currently learning everything UnB shoves down my throat 😵‍💫 
 - 🤔 I’m looking forward to learning Cybersecurity (a.k.a HACKIN'!) 
 - 📫 My email that probably nobody will give attention to: gabrielr.queiroz@gmail.com 
-- ⚡ **Fun fact: I think that I am funny :)**
+- ⚡ **Fun fact: I think I'm funny :)**
   
 ##
 
