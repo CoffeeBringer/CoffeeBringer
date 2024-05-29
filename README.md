@@ -31,7 +31,6 @@
 - 💼 I'm currently working at 🥸 *RanD7=P+0$w$s 🥸
 - 🌱 I’m currently learning everything UnB shoves down my throat 😵‍💫 
 - 🤔 I’m looking forward to learning Cybersecurity (a.k.a HACKIN'!) 
-- 📫 My email that probably nobody will give attention to: gabrielr.queiroz@gmail.com 
 - ⚡ **Fun fact: I think I'm funny :)**
   
 ##
